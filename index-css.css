@@ -1,0 +1,48 @@
+body {
+    background-color: white;
+    font-size: 15px;
+}
+#content {
+    max-width: 700px;
+    margin: 0px auto;
+    padding: 50px;
+}
+p {
+    color: #035f9c;
+    font-size: 1.0em;
+}
+hr {
+    height: 0.5px;
+    background-color: #035f9c;
+    width: 80%;
+    margin-top: 5px;
+}
+h1, p {
+    text-align: center;
+}
+h2{
+    text-align: left;
+    font-weight: normal;
+}
+h2 {
+    font-size: 1.1em;
+}
+li {
+    margin-bottom: 10px;
+    text-align: left;
+}
+#logos {
+    text-align: center;
+}
+#logos img {
+    width: 150px;
+    height: auto;
+}
+#topics {
+    line-height: 1.5em;
+    margin: 0 auto;
+    width: 70%;
+}
+.list {
+    list-style-type: none;
+}
